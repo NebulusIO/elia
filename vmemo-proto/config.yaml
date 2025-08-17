@@ -1,0 +1,7 @@
+recordings_dir: "~/Library/Group Containers/group.com.apple.VoiceMemos.shared/Recordings"
+out_dir: "~/VoiceMemos/Processed"
+rename_in_app: false
+title_words: 8
+whispercpp_path: "whisper-cpp"
+whisper_model: "~/Library/Application Support/vmemo/models/ggml-base.en.bin"
+language: "en"
